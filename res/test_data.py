@@ -15,6 +15,7 @@ import pandas as pd
 def main(test_data):
     test_data_files = f"{test_data}finnish_tweets*"
     files = glob.glob(test_data_files)
+    files.sort()
 
     empty_files = []
     for file in files:
