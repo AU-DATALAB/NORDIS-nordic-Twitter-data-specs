@@ -1,6 +1,10 @@
 # Tracking how the Finnish scrape is developing
 All the months for which there is scraping, a check needs to be conducted to make sure ALL tweets per month have been gathered.
 
+Important notes:
+1. The scraper scrapes from the last date of the month towards the 1st
+2. If you do a re-scrape into the same file, it starts from scratch - only ever rescrape to new files! And specify the new dates to duplicate as little as possible!
+
 | Month    | Status         | Tweet count |
 |----------|----------------|-------------|
 | Aug 2020 | Complete       | 1,680,249   |
