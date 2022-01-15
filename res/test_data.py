@@ -23,14 +23,29 @@ def main(test_data):
 
         lines = {"entry_nr":[], "entry":[]}
         i = 0
+        created_at = []
         with open(file) as f:
             for line in f:
                 lines["entry_nr"].append(i)
                 lines["entry"].append(line)
                 i+=1
-
+        for i in range(0, len(lines["entry"])):
+            try:
+                entry0 = json.loads(lines["entry"][i])
+                created_at.append(entry0["created_at"])
+            except:
+                ic("failed row", i)
+                pass
+        
+        ic(max(created_at), min(created_at))
         ic("Length of entries")
         length = len(lines["entry"])
+        ic(length)
+        ic("First entry")
+        entry = json.loads(lines["entry"][0])
+        ic(entry["created_at"])
+        entry = json.loads(lines["entry"][-1])
+        ic(entry["created_at"])
         del lines
         ic(length)
         if length == 0:
