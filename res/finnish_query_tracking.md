@@ -8,8 +8,8 @@ Important notes:
 | Month    | Status         | Tweet count |
 |----------|----------------|-------------|
 | Aug 2020 | Complete       | 1,680,249   |
-| Sep 2020 | Incomplete     | 68,470      |
-| Oct 2020 | Incomplete     | 48,430      |
+| Sep 2020 | 30 to 21st     | 670,010     |
+| Oct 2020 | 31 to 27th     | 293,250      |
 | Nov 2020 | Incomplete     | 14,303      |
 | Dec 2020 | Incomplete     | 5,433       |
 | Jan 2021 | Complete       | 1,988,495   |
