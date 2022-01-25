@@ -1,2 +1,5 @@
 # Sensitive info
 res/finnish_query.txt
+
+# Logs
+*.log
