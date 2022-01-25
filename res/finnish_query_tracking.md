@@ -7,14 +7,14 @@ Important notes:
 
 | Month    | Status         | Tweet count |
 |----------|----------------|-------------|
-| Aug 2020 | Complete       | 1,680,249   |
+| Aug 2020 | **Complete**       | 1,680,249   |
 | Sep 2020 | 30 to 21st     | 670,010     |
-| Oct 2020 | Complete       | 2.116.153   |
+| Oct 2020 | **Complete**       | 2.116.153   |
 | Nov 2020 | Incomplete     | 14,303      |
 | Dec 2020 | Incomplete     | 5,433       |
-| Jan 2021 | Complete       | 1,988,495   |
+| Jan 2021 | **Complete**       | 1,988,495   |
 | Feb 2021 | Incomplete     | 65,934      |
-| Mar 2021 | Complete       | 2,318,787   |
+| Mar 2021 | **Complete**       | 2,318,787   |
 | Apr 2021 | Missing 1st to 6th | 1,708,817   |
 | May 2021 | Incomplete     | 64,338      |
 | Jun 2021 | Incomplete     | 130,095     |
