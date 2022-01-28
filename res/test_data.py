@@ -14,7 +14,7 @@ import pandas as pd
 
 def main(test_data):
     include_these = ["10_2020", "09_2020","11_2020","12_2020","02_2021","04_2021","05_2021","06_2021","07_2021","08_2021","09_2021","10_2021","11_2021","12_2021"]
-    include_these = ["09_2020"]
+    include_these = ["02_2021"]
     test_data_files = f"{test_data}finnish_tweets_*"
     files = glob.glob(test_data_files)
     files.sort()
