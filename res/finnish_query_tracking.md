@@ -11,7 +11,7 @@ Important notes:
 | Sep 2020 | **Complete**   | 2,001,123   |
 | Oct 2020 | **Complete**   | 2.116.153   |
 | Nov 2020 | **Complete**   | 1,760,171   |
-| Dec 2020 | Incomplete     | 5,433       |
+| Dec 2020 | **Complete**   | 1,763,123   |
 | Jan 2021 | **Complete**   | 1,988,495   |
 | Feb 2021 | Incomplete     | 65,934      |
 | Mar 2021 | **Complete**   | 2,318,787   |
