@@ -13,10 +13,10 @@ Important notes:
 | Nov 2020 | **Complete**   | 1,760,171   |
 | Dec 2020 | **Complete**   | 1,763,123   |
 | Jan 2021 | **Complete**   | 1,988,495   |
-| Feb 2021 | Missing 1st to 5th     | 1,557,019     |
+| Feb 2021 | **Complete**   | 1,557,019     |
 | Mar 2021 | **Complete**   | 2,318,787   |
-| Apr 2021 | Missing 1st to 6th | 1,708,817   |
-| May 2021 | Incomplete     | 64,338      |
+| Apr 2021 | **Complete**   | 1,708,817   |
+| May 2021 | **Complete**   | 64,338      |
 | Jun 2021 | Missing 1st to 28th     | 130,095     |
 | Jul 2021 | Missing 1st to 30th     | 68,523      |
 | Aug 2021 | Missing 1st to 8th    | 1,669,761           |
