@@ -17,7 +17,7 @@ Important notes:
 | Mar 2021 | **Complete**   | 2,318,787   |
 | Apr 2021 | **Complete**   | 2,058,113   |
 | May 2021 | **Complete**   | 2,092,758   |
-| Jun 2021 | Missing 1st to 28th     | 130,095     |
+| Jun 2021 | **Complete**   | 1,978,454   |
 | Jul 2021 | Missing 1st to 30th     | 68,523      |
 | Aug 2021 | **Complete**    | 2,170,989     |
 | Sep 2021 | Missing 1st to 21st     | 286,006     |
