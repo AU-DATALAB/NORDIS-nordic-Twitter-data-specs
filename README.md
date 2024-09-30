@@ -2,6 +2,8 @@
 Description of the specifics of the Nordic Twitter datasets collected for various projects in NORDIS.
 The data used is gathered by DATALAB and in collaboration with the [HOPE project](https://hope-project.dk/#/). HOPE project has been collecting data for Danish, Norwegian, and Swedish since early 2020. DATALAB is collecting the Finnish tweets for the same time range with a similar approach to match the datasets as closely as possible.
 
+<a href=https://nordishub.eu/>NORDIS website</a>
+
 ## The scraping process
 DATALAB utilizes the codes made by CHCAA for scraping Finnish Twitter as that is used for scraping the HOPE Scandinavian tweets. For more info, contact Peter Bjerregaard Vahlstrup.
 
