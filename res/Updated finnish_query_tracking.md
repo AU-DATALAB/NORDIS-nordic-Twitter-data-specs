@@ -18,9 +18,12 @@ Important notes:
 | Apr 2021 | **Complete**   | 2,058,113   |
 | May 2021 | **Complete**   | 2,092,758   |
 | Jun 2021 | **Complete**   | 1,978,454   |
-| Jul 2021 | Missing 1st to 30th     | 68,523      |
-| Aug 2021 | **Complete**    | 2,170,989     |
-| Sep 2021 | Missing 1st to 21st     | 286,006     |
-| Oct 2021 | Not started    | -           |
-| Nov 2021 | Not started    | -           |
-| Dec 2021 | Not started    | -           |
+| Jul 2021 | **Complete**   | 1,896,125   |
+| Aug 2021 | **Complete**   | 2,170,989   |
+| Sep 2021 | **Complete**   | 2,165,841   |
+| Oct 2021 | **Complete**   | 2,320,958   |
+| Nov 2021 | **Complete**   | 2,285,253   |
+| Dec 2021 | **Complete**   | 2,416,910   |
+| Jan 2022 | **Complete**   | 2,677,432   |
+| Feb 2022 | **Complete**   | 2,716,957   |
+| Mar 2022 | **Complete**   | 2,811,882   |
